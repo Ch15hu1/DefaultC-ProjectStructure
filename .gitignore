@@ -1,6 +1,6 @@
 # 构建产物
-build/
-bin/
+build/*
+bin/*
 *.o
 *.exe
 *.out
