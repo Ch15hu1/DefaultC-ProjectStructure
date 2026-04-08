@@ -12,3 +12,7 @@ bin/
 # 系统文件
 .DS_Store
 Thumbs.db
+
+# 保留 .gitkeep 文件
+!build/.gitkeep
+!bin/.gitkeep
